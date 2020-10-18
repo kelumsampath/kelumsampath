@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelum</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelumsampath" alt="kelumsampath" /> </p>
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9976255)](https://stackoverflow.com/users/9976255/omid-nikrah)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9976255)](https://stackoverflow.com/users/9976255/kelum-sampath-edirisinghe)
 
 - 📝 I regulary write articles on [https://medium.com/@kelumsampathedirisinghe](https://medium.com/@kelumsampathedirisinghe)
 
