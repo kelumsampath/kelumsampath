@@ -3,11 +3,11 @@
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9976255)](https://stackoverflow.com/users/9976255/kelum-sampath-edirisinghe)
 
-- 📝 I write articles on [https://medium.com/@kelumsampathedirisinghe](https://medium.com/@kelumsampathedirisinghe)
+<!-- - 📝 I write articles on [https://medium.com/@kelumsampathedirisinghe](https://medium.com/@kelumsampathedirisinghe) -->
 
 - 📫 How to reach me **edirisingheemks@gmail.com**
 
-- ⚡ Fun fact **My favorite comfort food is Pizza🍕**
+- ⚡ Fun fact **Foodie 🍕🍔 **
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
