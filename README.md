@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **edirisingheemks@gmail.com**
 
-- ⚡ Fun fact **Foodie 🍕🍔 **
+- ⚡ Fun fact **Foodie** 🍕🍔 
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
